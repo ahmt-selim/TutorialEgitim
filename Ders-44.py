@@ -1,0 +1,20 @@
+#ÜNİVERSİTE SİMULASYONU 😎SİZ KODLAYIN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

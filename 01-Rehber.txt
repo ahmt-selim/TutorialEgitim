@@ -1,0 +1,53 @@
+####İÇİNDEKİLER####
+
+Ders2- operatörler, değişkenler, yorum satırları
+Ders-3: float, int farkları
+Ders-4: String özellikleri
+Ders-5: Veri dönüşümleri
+Ders-6: print fonksiyonu
+Ders-7: Yıldızlı parametreler
+Ders-8: Liste veri tipleri
+Ders-9: Tuple veri tipleri
+Ders-10: Dictionary veri tipleri
+Ders-11: input()
+Ders-12: Siz kıdlayın!
+Ders-13: Mantıksal ifadeler
+Ders-14: Mantıksal bağlaçlar (or , and)
+Ders-15: if&else blokları
+Ders-16: Siz kodlayın!
+Ders-17: For döngüsü
+Ders-18: While döngüsü
+Ders-19: Range()
+Ders-20: Break & Continue
+Ders-21: List Comprehension
+Ders-22: Siz kodlayın!
+Ders-23: Fonksiyonlar
+Ders-24: Fonksiyonlar ve Return
+Ders-25: Fonksiyonlar ve parametre
+Ders-25-2: Lambda Fonksiyonlar ve global
+Ders-26: Siz kodlayın!
+Ders-27: Modüller
+Ders-28: Siz kodlayın!
+Ders-29: Class(Sınıf)
+Ders:30 Basit şirket otomasyonu
+Ders-31: Kalıtım
+Ders-32: Siz kodlayın!
+Ders-33: Siz kodlayın!
+Ders-34: Hata bulma Trt Except
+Ders-34-2: Hata bulma 2 Exel youtube video indirme
+Ders-35: Dosya işlemleri
+Ders-36: Planlama programı, Dosya işlemleri 2
+Ders-37: map() yararlı gömülü fonksiyonlar/sınıflar
+Ders-38: min(),max(),sum() yararlı gömülü fonksiyonlar/sınıflar
+Ders-39: zip, enumerate, filter, all, any, len
+Ders-40: Siz kodlayın!
+Ders-41: Hatayı kolaylaştıran STR sınıfı fonksiyonları
+Ders-42: Set(küme) sınıfı
+Ders-43: Veri tabanı
+Ders-44: Siz kodlayın! Üniversite simülasyonu
+Ders-45: Decorator & MP3 downloader
+Ders-46: Siz kodlayın! İnstagram simülatörü
+Ders-47: Iteratorler
+Ders-48: Siz kodlayın!
+Ders-49: Generator
+
